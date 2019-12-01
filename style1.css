@@ -1,0 +1,233 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+.container
+{
+	/* margin: 0 auto; */
+	/* margin-bottom: 5%;
+	height: 100%; */
+}
+
+.header .header-1 .para
+{
+	position: relative;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+	padding: 10px 10px 10px 10px;
+	background:rgba(241, 69, 17, 0.993);
+	width:10%;
+	min-width: 5em;
+	border: 2px solid black;
+	border-radius: 50px;
+	color: white;
+	font-size: 100%;
+	font-family: 'Open Sans', sans-serif;
+	border-style: solid;
+	border-width: 0.1rem;
+	font-weight: bold;
+}
+
+.header .header-1 .button
+{
+	position: relative;
+	text-align: center;
+  top: 10;
+  left: 90%;
+  transform: translate(-60%, -100%);
+  width: 40px;
+  height: 40px;
+  display: grid;
+  justify-content: center;
+  /* align-items: center; */
+  font-size: 2rem;
+  color: #fff;
+  border: 2px solid #333;
+  border-radius: 50%;
+  background: #666;
+}
+.name
+{
+	position: relative;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding: 45px 10px 10px 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+}
+.idno
+{
+	position: relative;
+
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding: 15px 10px 10px 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	color:red;
+}
+
+
+
+.left
+{
+	margin-left: 5.5%;
+	width:40%;
+	float:left;
+	text-align: center;
+	border: 2px solid grey;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 16px;
+	min-width: 1%;
+	padding: .5% .5% .5% .5%;
+	background:rgb(220,220,220);
+	color: rgba(119, 117, 117, 0.685);
+	font-size: 120%;
+
+
+}
+.mid
+{
+	
+	width:5%;
+	float:left;
+	text-align: center;
+	border: 2px solid black;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 16px;
+	min-width: 2em;
+	padding: .5% .5% .5% .5%;
+	color:whitesmoke;
+	background: gray;
+	font-size: 120%;
+	min-width: 2.3em;
+	/* transform: translate(-50%, -50%); */
+
+
+
+}
+.right
+{
+	
+	width:40%;
+	float:left;
+	text-align: center;
+	border: 2px solid black;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 16px;
+	/* min-width: 4em; */
+	padding: .5% .5% .5% .5%;
+	font-size: 120%;
+	transform: translate(-15%, 0%);
+
+
+
+}
+.fl_left
+{
+	margin-left: 5.5%;
+	width:30%;
+	float:left;
+	text-align: center;
+	/* border: 2px solid grey; */
+	font-family: 'Open Sans', sans-serif;
+	/* border-radius: 16px; */
+	min-width: 1%;
+	/* padding: .5% .5% .5% .5%; */
+	/* background:rgb(220,220,220); */
+	color:black;
+	font-size: 120%;
+}
+.fl_mid
+{
+	width:25%;
+	float:left;
+	text-align: center;
+	/* border: 2px solid black; */
+	font-family: 'Open Sans', sans-serif;
+	/* border-radius: 16px; */
+	min-width: 2em;
+	/* padding: .5% .5% .5% .5%; */
+	color:black;
+	/* background: gray; */
+	font-size: 120%;
+	min-width: 2.3em;
+}
+.fl_right
+{
+	
+	width:30%;
+	float:left;
+	text-align: center;
+	/* border: 2px solid black; */
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 16px;
+	/* min-width: 4em; */
+	/* padding: .5% .5% .5% .5%; */
+	font-size: 120%;
+	transform: translate(-15%, 0%);
+}
+.percentage
+{
+	color:red;
+}
+.fl1_left
+{
+	margin-left: 5.5%;
+	width:30%;
+	float:left;
+	text-align: center;
+	/* border: 2px solid grey; */
+	font-family: 'Open Sans', sans-serif;
+	/* border-radius: 16px; */
+	min-width: 1%;
+	/* padding: .5% .5% .5% .5%; */
+	/* background:rgb(220,220,220); */
+	color:black;
+	font-size: 120%;
+}
+.fl1_mid
+{
+	width:15%;
+	float:left;
+	text-align: center;
+	/* border: 2px solid black; */
+	font-family: 'Open Sans', sans-serif;
+	/* border-radius: 16px; */
+	min-width: 2em;
+	/* padding: .5% .5% .5% .5%; */
+	color:black;
+	/* background: gray; */
+	font-size: 120%;
+}
+.fl1_right
+{
+	
+	width:30%;
+	float:left;
+	text-align: center;
+	/* border: 2px solid black; */
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 16px;
+	/* min-width: 4em; */
+	/* padding: .5% .5% .5% .5%; */
+	font-size: 120%;
+	transform: translate(-15%, 0%);
+}
+.hov
+{
+	/* display: none; */
+}
+.box
+{
+	border: 1.5px solid black;
+	width:90%
+	border-radius:16px;
+
+	/* float:center; */
+}
