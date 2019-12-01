@@ -31,8 +31,10 @@
 	top: 10;
 	left: 90%;
 	transform: translate(-60%, -100%);
-	width: 40px;
-	height: 40px;
+	width: 3%;
+	min-width: 3%;
+	height: 5%;
+	min-height: 5%;
 	display: grid;
 	justify-content: center;
 	/* align-items: center; */
@@ -45,15 +47,17 @@
 .logout
 {
 	margin-right: 9%;
-	padding: .65% .65% .65% 1%;
+	padding: .6% .65% .6% 1%;
 	font-family: 'Open Sans', sans-serif;
 	border-radius: 16px;
 	border: 1.5px solid black;
 	text-align: left;
 	float:right;
 	width: 8%;
-	height: 55%;
-	transform: translate(0%, -100%);
+	min-width: 8%;
+	height: 50%;
+	min-height: 50%;
+	transform: translate(1.5%, -97%);
 	border-style: solid;
 	font-weight: bold;
 
