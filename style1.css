@@ -4,7 +4,7 @@
 	padding:0px;
 }
 
-.header .header-1 .para
+ .para
 {
 	position: relative;
 	margin: auto;
@@ -24,7 +24,7 @@
 	font-weight: bold;
 }
 
-.header .header-1 .button
+.button
 {
 	position: relative;
 	text-align: center;
@@ -229,10 +229,7 @@
 	font-size: 120%;
 	transform: translate(-15%, 0%);
 }
-.hov
-{
-	/* display: none; */
-}
+
 .box
 {
 	transform: translate(0%, -55%);
@@ -240,7 +237,4 @@
 	border-radius:16px;
 	border: 1.5px solid black;
 	width:82.5%
-	
-
-	/* float:center; */
 }
