@@ -179,7 +179,7 @@
 .fl1_left
 {
 	margin-left: 5.5%;
-	width:30%;
+	width:20%;
 	float:left;
 	text-align: center;
 	/* border: 2px solid grey; */
@@ -193,22 +193,18 @@
 }
 .fl1_mid
 {
-	width:15%;
+	width:25%;
 	float:left;
 	text-align: center;
-	/* border: 2px solid black; */
 	font-family: 'Open Sans', sans-serif;
-	/* border-radius: 16px; */
 	min-width: 2em;
-	/* padding: .5% .5% .5% .5%; */
 	color:black;
-	/* background: gray; */
 	font-size: 120%;
 }
 .fl1_right
 {
 	
-	width:30%;
+	width:20%;
 	float:left;
 	text-align: center;
 	/* border: 2px solid black; */
@@ -225,9 +221,12 @@
 }
 .box
 {
-	border: 1.5px solid black;
-	width:90%
+	transform: translate(0%, -55%);
+	margin-left: 5.5%;
 	border-radius:16px;
+	border: 1.5px solid black;
+	width:82.5%
+	
 
 	/* float:center; */
 }
